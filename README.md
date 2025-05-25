@@ -23,7 +23,7 @@ Check out my portfolio website to see what I’ve been working on:
 - **Cybersecurity:** OSINT, basic network security, ethical hacking fundamentals
 - **Tech Tools:** Git, GitHub, Markdown, Notion, Windows/Linux environments
 
-## 📁 Featured Repositories
+## 📁 Featured Repositorie
 
 - [🖥️ Portfolio Website](https://github.com/carterkeel/website) – Code behind my personal site.
 
