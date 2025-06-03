@@ -20,7 +20,7 @@ Check out my portfolio website to see what I’ve been working on:
 
 - **IT & Support:** Networking, troubleshooting, system maintenance
 - **Video Editing:** Adobe Premiere Pro, DaVinci Resolve, After Effects
-- **Cybersecurity:** OSINT, basic network security, ethical hacking fundamentals
+- **Cybersecurity:** basic network security, ethical hacking fundamentals
 - **Tech Tools:** Git, GitHub, Markdown, Notion, Windows/Linux environments
 
 ## 📁 Featured Repositorie
