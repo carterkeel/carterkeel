@@ -1,38 +1,42 @@
-# 👋 Hi, I'm Carter Keel
+# Hi, I'm Carter.
 
-Welcome to my GitHub! I'm passionate about technology, creative media, and digital security.
+This is my one stop shop for most of my projects!
 
-## 🧠 About Me
+## Skills
 
-- 💼 I work in **Information Technology**, helping systems and people stay connected and secure.
-- 🎬 I have a strong interest in **video editing** and media production.
-- 🔐 I explore the world of **Cybersecurity**, with a focus on protecting data and learning ethical practices.
-- 🌐 I built and maintain my own **portfolio website** to showcase my skills and work.
-- 📚 I use GitHub for **documentation** and **collaboration** on tech and creative projects.
+### Video Production & Editing
+Video creator with professional experience as a video editor and videographer. Skilled in live video mixing and production for streaming environments.
 
-## 🌍 Portfolio
-
-Check out my portfolio website to see what I’ve been working on:
-
-[🔗 keel.me](https://keel.me/)
-
-## 🧰 Tools & Skills
-
-- **IT & Support:** Networking, troubleshooting, system maintenance
-- **Video Editing:** Adobe Premiere Pro, DaVinci Resolve, After Effects
-- **Cybersecurity:** basic network security, ethical hacking fundamentals
-- **Tech Tools:** Git, GitHub, Markdown, Notion, Windows/Linux environments
-
-## 📁 Featured Repositorie
-
-- [🖥️ Portfolio Website](https://github.com/carterkeel/website) – Code behind my personal site.
-
-## 📬 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/carterkeel)
-- 📧 contact@keel.me
+**Software Proficiency:**
+- Adobe Premiere Pro  
+- DaVinci Resolve  
+- OBS Studio  
+- vMix  
+- Adobe Photoshop  
+- Photopea  
 
 ---
 
-Thanks for visiting my GitHub — stay curious, stay secure. 🧠🔐🎥
+### IT Support & Server Management
+IT specialist with experience in technical support, server administration, and network configuration using industry-standard hardware and software.
 
+**Technologies & Platforms:**
+- Proxmox  
+- Microsoft Windows  
+- macOS  
+- Ubuntu Server  
+- UniFi hardware and networking  
+- Custom PC building and hardware configuration  
+
+---
+
+### Cybersecurity & Analysis
+Cybersecurity analyst with hands-on experience in open-source intelligence (OSINT) and account security. Actively involved in collegiate cybersecurity competitions using red-team and white-hat methodologies. Regularly create educational content focused on cybersecurity best practices and online safety.
+
+**Tools & Skills:**
+- Wireshark  
+- Microsoft Group Policy Editor  
+- VPN configuration  
+- Open-Source Intelligence (OSINT)  
+- C++  
+- Java  
