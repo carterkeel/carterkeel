@@ -10,11 +10,3 @@ My primary interests lie in **video production**, **IT**, and **cybersecurity**,
 
 - **Email:** contact@keel.me  
 - **Website:** [keel.me](https://keel.me)
-
-## Featured Repositories
-
-- **Handmade Personal Website**  
-  A fully custom website built from the ground up: **https://keel.me**
-
-- **Windows Fresh Install Configuration**  
-  A streamlined configuration designed to optimize and accelerate new Windows installations.
