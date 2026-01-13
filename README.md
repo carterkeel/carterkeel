@@ -1,38 +1,26 @@
-# Hi, I'm Carter.
+# Hi, I'm Carter
 
-This is my one stop shop for most of my projects!
+---
 
-## Skills
+Welcome to my GitHub — this is my central hub for many of my projects, including configuration files, web applications, and my personal website.
 
-### Video Production & Editing
-Video creator with professional experience as a video editor and videographer. Skilled in live video mixing and production for streaming environments.
+I enjoy creating thoughtful solutions across both creative and technical disciplines. This includes content creation projects such as my channel, **[Random But Cool](https://www.youtube.com/@RandomButCool)**, where I explore tools, workflows, and ideas in an approachable way. I’m always eager to learn new technologies and enjoy teaching others through my tech-focused videos.
 
-**Software Proficiency:**
-- Adobe Premiere Pro  
-- DaVinci Resolve  
-- OBS Studio  
-- vMix  
-- Adobe Photoshop  
-- Photopea  
+My primary interests lie in **video production**, **IT**, and **cybersecurity**, and I’m always open to new opportunities and collaborations.
 
-### IT Support & Server Management
-IT specialist with experience in technical support, server administration, and network configuration using industry-standard hardware and software.
+---
 
-**Technologies & Platforms:**
-- Proxmox  
-- Microsoft Windows  
-- macOS  
-- Ubuntu Server  
-- UniFi hardware and networking  
-- Custom PC building and hardware configuration  
+## Contact
 
-### Cybersecurity & Analysis
-Cybersecurity analyst with hands-on experience in open-source intelligence (OSINT) and account security. Actively involved in collegiate cybersecurity competitions using red-team and white-hat methodologies. Regularly create educational content focused on cybersecurity best practices and online safety.
+- **Email:** contact@keel.me  
+- **Website:** https://keel.me
 
-**Tools & Skills:**
-- Wireshark  
-- Microsoft Group Policy Editor  
-- VPN configuration  
-- Open-Source Intelligence (OSINT)  
-- C++  
-- Java  
+---
+
+## Featured Repositories
+
+- **Handmade Personal Website**  
+  A fully custom website built from the ground up: **https://keel.me**
+
+- **Windows Fresh Install Configuration**  
+  A streamlined configuration designed to optimize and accelerate new Windows installations.
